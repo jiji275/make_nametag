@@ -147,7 +147,7 @@ button:hover{
 
     position:absolute;
 
-    top:6mm;
+    top:7mm;
 
     left:0;
 
@@ -155,7 +155,7 @@ button:hover{
 
     text-align:center;
 
-    font-size:21px;
+    font-size:40px;
 
     font-weight:bold;
 
@@ -177,7 +177,7 @@ button:hover{
 
     position:absolute;
 
-    top:16mm;
+    top:19mm;
 
     left:0;
 
@@ -185,9 +185,9 @@ button:hover{
 
     text-align:center;
 
-    font-size:30px;
+    font-size:40px;
 
-    font-weight:900;
+    font-weight:700;
 
     letter-spacing:2px;
 
@@ -207,7 +207,7 @@ button:hover{
     left:12mm;
     right:12mm;
 
-    top: 35mm;
+    top: 33mm;
 
     height:1.5px;
 
@@ -223,7 +223,7 @@ button:hover{
 
     position:absolute;
 
-    top:36.5mm;
+    top:31.5mm;
 
     left:0;
 
@@ -231,7 +231,7 @@ button:hover{
 
     text-align:center;
 
-    font-size:32px;
+    font-size:40px;
 
     font-weight:bold;
 
@@ -242,4 +242,8 @@ button:hover{
     white-space:nowrap;
     
     overflow:hidden;
+
+    letter-spacing: 15px;
+    
+    transform: translateX(2mm);
 }
